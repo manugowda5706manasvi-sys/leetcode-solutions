@@ -30,5 +30,5 @@ int main()
 
     printf("Valid Anagram\n");
 
-        return 0;
+    return 0;
 }

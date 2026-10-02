@@ -23,5 +23,5 @@ int main()
 
     printf("Maximum Profit: %d\n", maxProfit);
 
-        return 0;
+    return 0;
 }
